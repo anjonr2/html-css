@@ -1,0 +1,16 @@
+.red{
+    color: brown;
+}
+h1 {
+    color: green;
+}
+
+.box{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 100px;
+    margin: 50px;
+    border: 10px solid black;
+    text-align: center;
+}
